@@ -9,3 +9,12 @@ RA: 00 05 24.1267
 DEC: +16 02 59.9322
 
 In the notebook foudn in this repo, I will go through the different steps in the data reduction using the ccdproc library in Python. I visualise every step along the way.
+
+
+### Useful link:
+
+CCD reduction overview: https://www.astropy.org/ccd-reduction-and-photometry-guide/v/dev/notebooks/01-05-Calibration-overview.html  
+
+INT: https://www.ing.iac.es/astronomy/telescopes/int/    
+IDS: https://www.ing.iac.es/astronomy/instruments/ids/    
+
